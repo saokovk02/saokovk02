@@ -2,7 +2,7 @@
 My name is Tuan Anh Nguyen. I am a Junior AI engineer. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/) [![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+GitHub](https://github.com/vietnh1009/) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 
 
